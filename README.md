@@ -11,7 +11,7 @@
 1. Clone the repository
 ```bash
 git clone <repository-url>
-cd hierarchical-table-app
+cd tableApp
 ```
 
 2. Install dependencies
@@ -26,7 +26,7 @@ npm start
 
 ### Project Structure
 ```
-hierarchical-table-app/
+tableApp/
 ├── src/
 ├── public/
 ├── package.json
